@@ -26,7 +26,7 @@ Table of contents
 - [Get security bulletins](#get-security-bulletins)
 - [Get involved](#get-involved)
 - [Learn more](#learn-more)
-- [License](#license)
+- [License](#license)jcjkseja
 - [Get the latest news](#get-the-latest-news)
 - [Contributing](#contributing)
 
